@@ -12,17 +12,6 @@ Este é um script Python simples para clonar todos os repositórios de um usuár
 - [Python](https://www.python.org/): Linguagem de programação principal.
 - [Git](https://git-scm.com/): Sistema de controle de versão para clonar repositórios do GitHub.
 
-Contato
--------
-
-Para dúvidas, sugestões ou problemas, entre em contato com Álan Cruz:
-
-<div>
-<a href="https://instagram.com/alanmugiwaras" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:alanufrb@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-<a href="https://linkedin.com/in/alansilvadacruz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-</div>
-
 ## Pré-requisitos
 
 Antes de executar o script, certifique-se de ter os seguintes módulos instalados:
@@ -53,4 +42,15 @@ Antes de executar o script, certifique-se de ter os seguintes módulos instalado
 ## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Contato
+-------
+
+Para dúvidas, sugestões ou problemas, entre em contato com Álan Cruz:
+
+<div>
+<a href="https://instagram.com/alanmugiwaras" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:alanufrb@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+<a href="https://linkedin.com/in/alansilvadacruz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+</div>
 
