@@ -25,7 +25,7 @@ Antes de executar o script, certifique-se de ter os seguintes módulos instalado
    - Clone este repositório para o seu sistema local.
 
     ```bash
-    git clone https://github.com/seu_nome_de_usuario/ditto-hub-python.git
+    git clone https://github.com/alanmugiwara/ditto-hub
     ```
 
 2. **Execute o Script:**
