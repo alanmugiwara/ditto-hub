@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/6982b78246699cd2458f/maintainability)](https://codeclimate.com/github/alanmugiwara/ditto-hub/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/6982b78246699cd2458f/test_coverage)](https://codeclimate.com/github/alanmugiwara/ditto-hub/test_coverage)
+
 # Ditto Hub
 
 Este é um script Python simples para clonar todos os repositórios de um usuário do GitHub de uma única vez em um diretório local.
